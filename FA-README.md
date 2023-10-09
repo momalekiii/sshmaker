@@ -14,13 +14,13 @@
 1. کلون کردن مخزن:
 
    ```bash
-   git clone https://github.com/momalekiii/user-management-script.git
+   git clone https://github.com/momalekiii/sshmaker.git
    ```
 
 2. وارد شدن به دایرکتوری اسکریپت:
 
    ```bash
-   cd user-management-script
+   cd sshmaker
    ```
 
 3. اجرای اسکریپت با آرگومان‌های موردنیاز:
@@ -34,14 +34,10 @@
 ## مثال
 
 ```bash
-sudo bash create_user.sh john.doe 2023-12-31 1024 512
+sudo bash create_user.sh alireza 2023-12-31 1024 512
 ```
 
-در این مثال، اسکریپت یک کاربر به نام "john.doe" با تاریخ انقضا 31 دسامبر 2023 و محدودیت دانلود 1024 kbps و محدودیت آپلود 512 kbps ایجاد می‌کند.
+در این مثال، اسکریپت یک کاربر به نام "alireza" با تاریخ انقضا 31 دسامبر 2023 و محدودیت دانلود 1024 kbps و محدودیت آپلود 512 kbps ایجاد می‌کند.
 
-## لایسنس
 
-این اسکریپت تحت [لایسنس MIT](LICENSE) منتشر شده است.
-```
-
-Feel free to use this Persian version in your GitHub repository. If you have any further requests or modifications needed, please let me know!
+اگه از اسکریپت استفاده کردید و کارکرد براتون، لطفا با ⭐️ دادن به اسکریپت ازش حمایت کنید.
