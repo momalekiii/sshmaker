@@ -1,8 +1,9 @@
-# User Management Script          
+# User Management Script
                              
 This script is designed to create a user with limited SSH access, set an expiration date, and optionally limit the user's network traffic.
 
-[فارسی🇮🇷](https://github.com/momalekiii/sshmaker/blob/main/FA-README.md)
+[فارسی🇮🇷
+](https://github.com/momalekiii/sshmaker/blob/main/FA-README.md)
 # Features
 
 - Creates a user with limited SSH access.
