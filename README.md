@@ -1,4 +1,4 @@
-User Management Script
+# User Management Script
 
 This script is designed to create a user with limited SSH access, set an expiration date, and optionally limit the user's network traffic.
 
@@ -9,7 +9,7 @@ This script is designed to create a user with limited SSH access, set an expirat
 - Optionally limits the user's network traffic.
 
 
-Usage
+# Usage
 
 
 1. Clone the repository:
@@ -45,9 +45,6 @@ sudo bash create_user.sh john.doe 2023-12-31 1024 512
 
 This will create a user named "john.doe" with an expiration date of December 31, 2023, and set the download limit to 1024 kbps and upload limit to 512 kbps.
 
-## License
 
-This script is licensed under the [MIT License](LICENSE).
-```
 
-Feel free to use this content for your GitHub README. If you have any further requests or modifications needed, please let me know!
+If You use the script and worked for you, support the script with giving it ⭐️
