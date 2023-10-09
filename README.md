@@ -10,18 +10,18 @@ This script is designed to create a user with limited SSH access, set an expirat
 - Optionally limits the user's network traffic.
 
 
-##Usage
+##  Usage
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/momalekiii/user-management-script.git
+   git clone https://github.com/momalekiii/sshmaker.git
    ```
 
 2. Navigate to the script directory:
 
    ```bash
-   cd user-management-script
+   cd sshmaker
    ```
 
 3. Run the script with the necessary arguments:
