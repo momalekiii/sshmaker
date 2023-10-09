@@ -12,11 +12,12 @@ This script is designed to create a user with limited SSH access, set an expirat
 
 ##  Usage
 
+
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/momalekiii/sshmaker.git
-   ```
+      ```
 
 2. Navigate to the script directory:
 
