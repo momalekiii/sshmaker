@@ -1,4 +1,4 @@
-# User Management Script                                 [فارسی]([url](https://github.com/momalekiii/sshmaker/blob/main/FA-README.md))
+# User Management Script                                 [فارسی] ([url](https://github.com/momalekiii/sshmaker/blob/main/FA-README.md))
 This script is designed to create a user with limited SSH access, set an expiration date, and optionally limit the user's network traffic.
 
 # Features
